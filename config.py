@@ -1,3 +1,3 @@
 # config.py
-API_TOKEN = "8145709368:AAEdYCGHb0Titl7cLMA2mXe1nbHplzKLIfY"
+API_TOKEN = "API"
 DB_NAME = 'quiz_bot.db'

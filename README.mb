@@ -28,7 +28,7 @@
    ```
 5. Создайте файл `config.py` и добавьте туда токен своего бота и имя базы данных:
    ```python
-   API_TOKEN = "8145709368:AAEdYCGHb0Titl7cLMA2mXe1nbHplzKLIfY"
+   API_TOKEN = "API"
    DB_NAME = "quiz_bot.db"
    ```
 6. Запустите приложение:
